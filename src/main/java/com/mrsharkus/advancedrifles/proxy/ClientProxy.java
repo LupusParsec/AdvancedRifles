@@ -18,7 +18,7 @@ public class ClientProxy extends CommonProxy
     @Override
     public void init()
     {
-	    super.init();
+	super.init();
     	IItemColor color = (stack, index) ->
 	{
 	    if(index == 0 && stack.hasTagCompound() && stack.getTagCompound().hasKey("color", Constants.NBT.TAG_INT))
