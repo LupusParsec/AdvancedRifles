@@ -31,8 +31,8 @@ repositories {
 }
 
 dependencies {
-    compile "curse.maven:obfuscate:2912288"
-    compile "curse.maven:mrcrayfishs-gun-mod:2773787"
+    compile "curse.maven:obfuscate-289380:2916310"
+    compile "curse.maven:mrcrayfishs-gun-mod-289479:2854400"
 }
 
 processResources {
