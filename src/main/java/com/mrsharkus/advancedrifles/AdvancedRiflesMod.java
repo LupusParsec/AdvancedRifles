@@ -128,7 +128,7 @@ public class AdvancedRiflesMod
                 new ItemStack(Items.IRON_INGOT, 35),
                 new ItemStack(Blocks.CONCRETE, 5, EnumDyeColor.GRAY.getMetadata()),
                 new ItemStack(Blocks.CONCRETE, 25, EnumDyeColor.SILVER.getMetadata()));
-        WorkbenchRegistry.registerRecipe(new ItemStack(ModItems.SCAR),
+        WorkbenchRegistry.registerRecipe(new ItemStack(ModItems.AK12),
                 new ItemStack(Items.IRON_INGOT, 25),
                 new ItemStack(Blocks.CONCRETE, 10, EnumDyeColor.GRAY.getMetadata()),
                 new ItemStack(Blocks.CONCRETE, 15, EnumDyeColor.SILVER.getMetadata()));
